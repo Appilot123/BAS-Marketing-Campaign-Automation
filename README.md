@@ -93,3 +93,12 @@ We’re focusing on making it accessible—even if you’re new to automation. T
 - **Session Stability:** 24/7 uptime
 - **Concurrent Account Management:** Supports up to 250+ simultaneous tasks
 - **Action Randomization Effectiveness:** Detected as human 99% of the time
+
+
+## Tools & Technologies Used:
+This project builds on years of experience with **Browser Automation Studio**, **Selenium** + **Python**, and **real-world marketing automation**. Techniques include:
+
+- Stealth automation with proxy management
+- CAPTCHA solving integrations (e.g., RuCaptcha)
+- Multi-threaded workflows for scaling campaigns
+- Combining scraping, posting, and email automation in cohesive pipelines
