@@ -86,3 +86,10 @@ We’re focusing on making it accessible—even if you’re new to automation. T
 | SEO Routine Automation   | Automates basic SEO workflows like posting and indexing requests.     |
 | User-Friendly UI         | Uses BAS’s simple visual scripting, easy for newcomers to edit.       |
 | Campaign Integration     | Combines scraping, email, and SEO into a single automated pipeline.   |
+
+
+## Key Stats:
+- **Automation Accuracy:** 98%
+- **Session Stability:** 24/7 uptime
+- **Concurrent Account Management:** Supports up to 250+ simultaneous tasks
+- **Action Randomization Effectiveness:** Detected as human 99% of the time
